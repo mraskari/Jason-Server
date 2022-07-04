@@ -1,0 +1,17 @@
+{
+  "name": "jasonserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "json-server": "^0.17.0",
+    "react": "^18.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "json-server --watch db.json --port 4000"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

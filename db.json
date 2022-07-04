@@ -1,0 +1,24 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "sample 1",
+      "content": "this is body of sample 1"
+    },
+    {
+      "id": 2,
+      "title": "sample 2",
+      "content": "this is body of sample 2"
+    },
+    {
+      "id": 3,
+      "title": "sample 3",
+      "content": "this is body of sample 3"
+    },
+    {
+      "id": 4,
+      "title": "sample 4",
+      "content": "this is body of sample 4"
+    }
+  ]
+}
